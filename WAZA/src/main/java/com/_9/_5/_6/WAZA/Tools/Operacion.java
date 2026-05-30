@@ -1,6 +1,4 @@
-package com._9._5._6.WAZA.Con;
-
-package com.waza.Tools;
+package com._9._5._6.WAZA.tools;
 
 import java.util.Stack;
 
